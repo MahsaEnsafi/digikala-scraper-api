@@ -72,11 +72,3 @@ uvicorn digikala_api:app --reload
 
 ---
 
-## 👩‍💻 توسعه‌دهنده
-
-[🔗 GitHub](https://github.com/MahsaEnsafi)  
-[🔗 Google Scholar](https://scholar.google.com/citations?hl=en&user=6i3iDhEAAAAJ)
-
----
-
-⭐ اگر پروژه برات مفید بود، خوشحال می‌شم استارش کنی.
